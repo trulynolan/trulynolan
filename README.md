@@ -4,19 +4,19 @@
 
 ### Full-stack engineer • Go + TypeScript • Shipping aviation software at Proflyt ✈️
 
-I build fast, maintainable systems end-to-end — Go APIs on the back, Next.js on the front, and the heaviest breakdowns you can feed me on repeat. 🤘🏻
+I build fast, maintainable systems end to end. Go APIs on the back, Next.js on the front, and the heaviest breakdowns you can feed me on repeat. 🤘🏻
 
 [![Profile Views](https://komarev.com/ghpvc/?username=trulynolan&style=flat-square&color=6366f1)](https://github.com/trulynolan)
+[![Commits Authored](https://img.shields.io/badge/Commits%20Authored-650%2B-6366f1?style=flat-square&logo=git&logoColor=white)](https://github.com/trulynolan)
 [![Location](https://img.shields.io/badge/Chicago-1f2937?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/trulynolan)
 
 </div>
 
----
-
 ### 🔭 What I'm building
 
-- **✈️ Nexus @ Proflyt** — aviation crew scheduling & operations platform. Go (Gin + GORM) backend, Next.js 14 App Router frontend, PostgreSQL, deployed on Railway, tested end-to-end with Playwright. Built on a custom atomic design system.
-- **🛋️ [cozybooking.co](https://cozybooking.co)** — a booking app I'm designing and shipping solo, end to end.
+At Proflyt, I'm building **Nexus**, an aviation crew scheduling and operations platform. The backend is Go with Gin and GORM, the frontend is Next.js 14 on the App Router, and it runs on PostgreSQL deployed to Railway. I cover the whole surface with Playwright end-to-end tests, and the UI is built on a custom atomic design system.
+
+On the side, I'm designing and shipping **[cozybooking.co](https://cozybooking.co)** entirely on my own, from the database all the way to the front end.
 
 ### 🛠️ Tech I work in
 
@@ -33,23 +33,21 @@ I build fast, maintainable systems end-to-end — Go APIs on the back, Next.js o
 
 ### 💡 How I work
 
-- Ship full-stack — own the database, the API, and the pixels.
-- Read the codebase before touching it; preserve what works while making it better.
-- Lean code: early returns, clear patterns, no cleverness for its own sake.
-- Verify it live before calling it done.
+I like to own the full stack, from the database to the API to the pixels. Before I touch a codebase I read it, and I work to preserve what already works while making it better. I keep my code lean with early returns and clear patterns, avoiding cleverness for its own sake, and I always verify a change live before I call it done.
 
 ### 📊 GitHub at a glance
 
+The card below reflects my public activity. It can't see my work in private Proflyt repositories, where the bulk of my commits actually live, so the real total is well over 650.
+
 <div align="center">
 
-![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulynolan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynolan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
 ### 🎮 Off the clock
 
-Grinding **Dead by Daylight** and chasing the heaviest breakdowns in metal. 🔪🎸
+When I'm not writing code, I'm grinding **Dead by Daylight** and chasing the heaviest breakdowns in metal. 🔪🎸
 
 ### 📫 Reach me
 
