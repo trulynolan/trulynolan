@@ -37,11 +37,11 @@ I like to own the full stack, from the database to the API to the pixels. Before
 
 ### 📊 GitHub at a glance
 
-Most of my work lives in private Proflyt repositories, which now counts toward the contribution graph above and adds up to roughly 1,900 commits. The languages card below only reflects my public repositories.
+Most of my work lives in private Proflyt repositories. The card below is generated from my own token, so it counts that private work and reflects my real commit total. The languages card only sees my public repositories.
 
 <div align="center">
 
-![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulynolan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Nolan's GitHub stats](./assets/github-stats.svg)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynolan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
