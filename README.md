@@ -7,7 +7,7 @@
 I build fast, maintainable systems end to end. Go APIs on the back, Next.js on the front, and the heaviest breakdowns you can feed me on repeat. 🤘🏻
 
 [![Profile Views](https://komarev.com/ghpvc/?username=trulynolan&style=flat-square&color=6366f1)](https://github.com/trulynolan)
-[![Commits Authored](https://img.shields.io/badge/Commits%20Authored-650%2B-6366f1?style=flat-square&logo=git&logoColor=white)](https://github.com/trulynolan)
+[![Commits Authored](https://img.shields.io/badge/Commits%20Authored-1.9k%2B-6366f1?style=flat-square&logo=git&logoColor=white)](https://github.com/trulynolan)
 [![Location](https://img.shields.io/badge/Chicago-1f2937?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/trulynolan)
 
 </div>
@@ -37,7 +37,7 @@ I like to own the full stack, from the database to the API to the pixels. Before
 
 ### 📊 GitHub at a glance
 
-The card below reflects my public activity. It can't see my work in private Proflyt repositories, where the bulk of my commits actually live, so the real total is well over 650.
+Most of my work lives in private Proflyt repositories, which now counts toward the contribution graph above and adds up to roughly 1,900 commits. The languages card below only reflects my public repositories.
 
 <div align="center">
 
