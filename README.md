@@ -42,7 +42,7 @@ I build fast, maintainable systems end-to-end — Go APIs on the back, Next.js o
 
 <div align="center">
 
-![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulynolan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulynolan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynolan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
